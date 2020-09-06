@@ -1,0 +1,4 @@
+(library
+ (public_name tip_analysis.tip_parser)
+ (name tip_parser)
+ (libraries containers nice_parser))

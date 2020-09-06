@@ -1,0 +1,26 @@
+EXCLUDE_QUERY_DIR
+B /home/ian/.opam/default/lib/base
+B /home/ian/.opam/default/lib/base/base_internalhash_types
+B /home/ian/.opam/default/lib/base/caml
+B /home/ian/.opam/default/lib/base/shadow_stdlib
+B /home/ian/.opam/default/lib/containers
+B /home/ian/.opam/default/lib/containers/monomorphic
+B /home/ian/.opam/default/lib/nice_parser
+B /home/ian/.opam/default/lib/seq
+B /home/ian/.opam/default/lib/sexplib0
+B /home/ian/.opam/default/lib/stdio
+B /usr/lib/ocaml/compiler-libs
+B _build/default/.tip_parser.objs/byte
+S /home/ian/.opam/default/lib/base
+S /home/ian/.opam/default/lib/base/base_internalhash_types
+S /home/ian/.opam/default/lib/base/caml
+S /home/ian/.opam/default/lib/base/shadow_stdlib
+S /home/ian/.opam/default/lib/containers
+S /home/ian/.opam/default/lib/containers/monomorphic
+S /home/ian/.opam/default/lib/nice_parser
+S /home/ian/.opam/default/lib/seq
+S /home/ian/.opam/default/lib/sexplib0
+S /home/ian/.opam/default/lib/stdio
+S /usr/lib/ocaml/compiler-libs
+S .
+FLG -open Tip_parser -w -40

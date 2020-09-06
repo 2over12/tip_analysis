@@ -1,0 +1,3 @@
+(library
+ (name tip_parser)
+ (libraries containers nice_parser))

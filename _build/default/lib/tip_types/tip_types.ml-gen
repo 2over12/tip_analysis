@@ -1,0 +1,5 @@
+(** @canonical Tip_types.AnnotatedAst *)
+module AnnotatedAst = Tip_types__AnnotatedAst
+
+(** @canonical Tip_types.TypeConstraints *)
+module TypeConstraints = Tip_types__TypeConstraints

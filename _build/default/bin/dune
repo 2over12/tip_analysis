@@ -1,0 +1,4 @@
+(executable
+ (public_name tip_analysis)
+ (name main)
+ (libraries tip_analysis.tip_types))
