@@ -2,3 +2,5 @@ _build/
 lib/tip_types/_build/
 lib/tip_parser/_build/
 .vscode
+.merlin
+_build
