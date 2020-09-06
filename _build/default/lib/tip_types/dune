@@ -1,4 +1,0 @@
-(library
- (public_name tip_analysis.tip_types)
- (name tip_types)
- (libraries containers tip_parser))
