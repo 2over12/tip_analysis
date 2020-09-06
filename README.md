@@ -3,8 +3,8 @@
 Implementing analyses from https://cs.au.dk/~amoeller/spa/ in OCaml.
 
 ## Status:
-	* CH2 (Parser) - Done
-	* CH3 (Type Analysis) - In Progress
+* CH2 (Parser) - Done
+* CH3 (Type Analysis) - In Progress
 
 ## Note
 
